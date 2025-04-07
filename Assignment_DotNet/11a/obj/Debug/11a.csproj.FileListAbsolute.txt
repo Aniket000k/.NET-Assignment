@@ -1,0 +1,7 @@
+C:\Unofficial\Assignment_DotNet\11a\bin\Debug\11a.exe.config
+C:\Unofficial\Assignment_DotNet\11a\bin\Debug\11a.exe
+C:\Unofficial\Assignment_DotNet\11a\bin\Debug\11a.pdb
+C:\Unofficial\Assignment_DotNet\11a\obj\Debug\11a.csproj.AssemblyReference.cache
+C:\Unofficial\Assignment_DotNet\11a\obj\Debug\11a.csproj.CoreCompileInputs.cache
+C:\Unofficial\Assignment_DotNet\11a\obj\Debug\11a.exe
+C:\Unofficial\Assignment_DotNet\11a\obj\Debug\11a.pdb

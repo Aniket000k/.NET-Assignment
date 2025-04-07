@@ -1,0 +1,2 @@
+C:\Unofficial\Assignment_DotNet\Q3A\Q3A\obj\Debug\Q3A.csproj.AssemblyReference.cache
+C:\Unofficial\Assignment_DotNet\Q3A\Q3A\obj\Debug\Q3A.csproj.CoreCompileInputs.cache

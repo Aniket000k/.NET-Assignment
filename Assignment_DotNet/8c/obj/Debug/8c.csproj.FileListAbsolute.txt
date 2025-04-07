@@ -1,0 +1,7 @@
+C:\Unofficial\Assignment_DotNet\8c\bin\Debug\8c.exe.config
+C:\Unofficial\Assignment_DotNet\8c\bin\Debug\8c.exe
+C:\Unofficial\Assignment_DotNet\8c\bin\Debug\8c.pdb
+C:\Unofficial\Assignment_DotNet\8c\obj\Debug\8c.csproj.AssemblyReference.cache
+C:\Unofficial\Assignment_DotNet\8c\obj\Debug\8c.csproj.CoreCompileInputs.cache
+C:\Unofficial\Assignment_DotNet\8c\obj\Debug\8c.exe
+C:\Unofficial\Assignment_DotNet\8c\obj\Debug\8c.pdb
